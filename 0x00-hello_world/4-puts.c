@@ -1,10 +1,10 @@
 #include <stdio.h>
-/*
-* main - entry point
-*
-*Task 4: Displays code to screen without using printf
-*/
+/**
+ * main - Start point
+ * Return: 0 (positve) or 1 (negative)
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
-return (0); }
+return (0);
+}
