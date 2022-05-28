@@ -12,7 +12,9 @@ int ch;
 for (ch = 48; ch < 58; ch++)
 {
 if (ch != 50 && c != 52)
+{
 _putchar(ch);
+}
 }
 _putchar('\n');
 }
