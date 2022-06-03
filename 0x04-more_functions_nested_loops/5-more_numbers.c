@@ -20,4 +20,3 @@ _putchar((ch % 10) + 48);
 _putchar('\n');
 }
 }
-}
